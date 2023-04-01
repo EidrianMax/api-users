@@ -5,6 +5,7 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
+    "start": "node .",
     "dev": "nodemon .",
     "dev:debug": "nodemon --inspect-brk .",
     "lint": "standard",
